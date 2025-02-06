@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "phpcsfixer.executablePath": "~/.composer/vendor/bin/php-cs-fixer",
+  "phpcsfixer.rules": {
+    "@PSR12": true
+  }
+}
